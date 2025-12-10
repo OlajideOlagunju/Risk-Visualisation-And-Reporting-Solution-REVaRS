@@ -1,4 +1,4 @@
-# REVaRS V5 - Enterprise Risk & Reliability Management System
+# REVaRS - Enterprise Risk & Reliability Management System
 
 **REVaRS (Risk Exposure Visualisation and Reporting Software)** is a comprehensive, enterprise-grade web platform designed to manage industrial risk, reliability, and operational efficiency. It aggregates data from various systems to provide a unified view of asset health, safety barriers, and operational risks.
 
