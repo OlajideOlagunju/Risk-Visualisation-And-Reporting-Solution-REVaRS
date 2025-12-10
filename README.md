@@ -48,4 +48,4 @@
 
 ---
 
-*Note: This repository serves as a showcase for the REVaRS V5 project. Source code is proprietary and not included.*
+*Note: This repository serves as a showcase for the REVaRS project. Source code is proprietary and not included.*
